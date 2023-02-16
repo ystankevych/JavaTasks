@@ -1,0 +1,2 @@
+Hi, People.
+Let's learning Java!

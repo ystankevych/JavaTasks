@@ -1,2 +1,3 @@
 Hi, People.
 Let's learning Java!
+I am starting right now.

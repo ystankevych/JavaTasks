@@ -6,3 +6,8 @@ Now I am using git gui options
 
 ******************************
 I will use git remote to undo changes from remote repository
+
+
+Текст в main
+Текст в main
+Текст в main

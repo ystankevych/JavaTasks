@@ -8,3 +8,6 @@ Now I am using git gui options
 I will use git remote to undo changes from remote repository
 
 text for new branch 'feature'
+
+***********************************
+one more lines

@@ -3,6 +3,3 @@ Let's learn Java!
 I am starting right now.
 
 Now I am using git gui options
-
-******************************
-I will use git remote to undo changes from remote repository

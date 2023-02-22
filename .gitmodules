@@ -1,0 +1,3 @@
+[submodule "javadecrementing-carousel"]
+	path = javadecrementing-carousel
+	url = git@github.com:ystankevych/JavaTasks.git
